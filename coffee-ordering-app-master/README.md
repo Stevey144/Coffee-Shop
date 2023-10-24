@@ -82,26 +82,4 @@ A simple GUI application to implement Coffee ordering, developed using Java and 
 
 - The application allows the customers to create their own account, which can be further utilised so that their menu preferences and payment details can be remembered; a useful function for regular customers.
 
-## Screenshots
 
-![Login](https://github.com/nehalchakravarthy/coffee-ordering-app/blob/master/src/coffee/ordering/app/screenshots/Login.png)
-
-> Login Screen
-
-![Signup](https://github.com/nehalchakravarthy/coffee-ordering-app/blob/master/src/coffee/ordering/app/screenshots/Sign%20up.png)
-
-> Signup Screen
-
-![Order menu](https://github.com/nehalchakravarthy/coffee-ordering-app/blob/master/src/coffee/ordering/app/screenshots/Order%20menu.png)
-
-> Order Screen
-
-![Payment](https://github.com/nehalchakravarthy/coffee-ordering-app/blob/master/src/coffee/ordering/app/screenshots/Payment.png)
-
-> Payment Screen
-
-![Manage Orders](https://github.com/nehalchakravarthy/coffee-ordering-app/blob/master/src/coffee/ordering/app/screenshots/Manage%20orders.png)
-
-> Manage Orders Screen
-
-##### Developed by Nehal Chakravarthy (@nehalchakravarthy)
